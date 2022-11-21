@@ -54,3 +54,7 @@ You can also open your Terminal with `ctrl+j`.  From there type `node example.js
 
 > C:\Users\marcf\Develop\adventofcode-2022>node example.js   
 > 8
+
+## Committing code
+Lets go back to github.com and click "create a new repository". Give it the same name as your project folder (This isnt strictly required but it makes things much less confusing and theres no reason not to do it).  When you create your repo, it should give you instructions on how to add your code to github repo.
+
